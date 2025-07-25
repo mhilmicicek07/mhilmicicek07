@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mehmet Hilmi Çiçek  
+# Merhaba | Hi | Hallo 👋, I'm Mehmet Hilmi ÇİÇEK  
 ### 🌐 Full-Stack Web Developer | Webentwickler | Web Geliştirici  
 
 ---

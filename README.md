@@ -1,26 +1,26 @@
 # Merhaba | Hi | Hallo 👋, I'm Mehmet Hilmi ÇİÇEK  
-### 🌐 Full-Stack Web Geliştirici | Web Developer | Webentwickler |  
+### 🌐 Full-Stack Web Geliştirici | Web Developer | Webentwickler  
 
 ---
 
 ## 🇹🇷 Hakkımda  
-- 👨‍💻 Full Stack geliştirici olarak JavaScript, Python ve SQL alanlarında deneyimliyim  
+- 👨‍💻 Full Stack geliştirici olarak JavaScript, Python, SQL ve Node.js alanlarında deneyimliyim  
 - 🛠️ Uçtan uca web uygulamaları geliştiriyor; hem frontend hem backend tarafında aktif rol alıyorum  
-- 🌱 Şu anda React, TailwindCSS ve TypeScript üzerinde çalışıyorum  
+- 🌱 Şu anda **aktif olarak iş arayışındayım**  
 - 🗣️ Türkçe (ana dil), İngilizce (B1), Almanca (B2)  
 - 📍 Geislingen an der Steige, Almanya’da yaşıyorum, uzaktan çalışmaya açığım  
 
 ## 🇬🇧 About Me  
-- 👨‍💻 Experienced Full-Stack Developer with strong skills in **JavaScript**, **Python**, and **SQL**  
+- 👨‍💻 Experienced Full-Stack Developer with strong skills in **JavaScript**, **Python**, **SQL**, and **Node.js**  
 - 🛠️ Build and maintain web apps from frontend to backend  
-- 🌱 Currently learning **React**, **TailwindCSS**, and **TypeScript**  
+- 🌱 **Currently actively looking for job opportunities**  
 - 🌍 Based in **Geislingen an der Steige**, open to remote opportunities  
 - 🗣️ Languages: Turkish (native), English (B1), German (B2)  
 
 ## 🇩🇪 Über mich  
-- 👨‍💻 Berufserfahrung als Full-Stack-Entwickler mit Fokus auf **JavaScript**, **Python** und **SQL**  
+- 👨‍💻 Berufserfahrung als Full-Stack-Entwickler mit Fokus auf **JavaScript**, **Python**, **SQL** und **Node.js**  
 - 🛠️ Umsetzung kompletter Weblösungen – Frontend bis Backend  
-- 🌱 Aktuell vertiefe ich mein Wissen in **React**, **TailwindCSS** und **TypeScript**  
+- 🌱 **Ich bin derzeit aktiv auf der Suche nach beruflichen Möglichkeiten**  
 - 🌍 Lebe in **Geislingen an der Steige**, offen für Remote-Projekte  
 - 🗣️ Sprachen: Türkisch (Muttersprache), Englisch (B1), Deutsch (B2)  
 
@@ -33,12 +33,15 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) *(Temel seviye)*
 
 ---
 
@@ -53,16 +56,8 @@
 ## 📫 Reach Me  
 - 📧 **E-Mail:** m.hilmicicek07@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-hilmi-çiçek-b987062a6)  
-- 🌐 [Portfolio (yakında)](https://your-portfolio.com)  
-- 🧠 [Stack Overflow](https://stackoverflow.com/users/your-id)  
-- 📷 [Instagram](https://instagram.com/your-handle)  
-- ✍️ [Medium](https://medium.com/@your-handle)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 🖋️ [CodePen](https://codepen.io/your-handle)
 
 ---
 
 ## ✍️ Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----

@@ -41,7 +41,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) <sub>Temel seviye</sub>
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) <sub>TR: Temel seviye | EN: Basic | DE: Grundkenntnisse</sub>
 
 ---
 

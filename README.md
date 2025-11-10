@@ -55,7 +55,7 @@
 
 ## 📫 Reach Me  
 - 📧 **E-Mail:** m.hilmicicek07@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-hilmi-cicek07)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mhilmicicek)  
 
 ---
 

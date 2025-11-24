@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhilmicicek07&show_icons=true&count_private=true&theme=tokyonight&hide_title=false&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhilmicicek07&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmicicek07&layout=compact&theme=tokyonight" />
 </p>
 

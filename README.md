@@ -51,6 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmicicek07&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" />
 </p>
 
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhilmicicek07&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmicicek07&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Reach Me  

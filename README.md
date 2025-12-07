@@ -47,11 +47,10 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhilmicicek07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmicicek07&layout=compact&theme=tokyonight&cache_seconds=0&hide=Jupyter%20Notebook" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhilmicicek07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmicicek07&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Languages" style="max-width: 100%; margin-top: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhilmicicek07&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%; margin-top: 10px;" />
 </p>
-
-<img src="https://camo.githubusercontent.com/66997021c2f7355d5a14d88359732e22c1dc9a3dbc026a0bc4f16ea7dd549203/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d676f6b68616e62796b267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mhilmicicek07&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
 
 ---
 

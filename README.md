@@ -47,8 +47,6 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhilmicicek07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmicicek07&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Languages" style="max-width: 100%; margin-top: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhilmicicek07&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%; margin-top: 10px;" />
 </p>
 

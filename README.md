@@ -8,20 +8,20 @@
 - 🛠️ Uçtan uca web uygulamaları geliştiriyor; hem frontend hem backend tarafında aktif rol alıyorum
 - 🌱 Şu anda **aktif olarak iş arayışındayım**
 - 🗣️ Türkçe (ana dil), İngilizce (B1), Almanca (B2)
-- 📍 Geislingen an der Steige, Almanya'da yaşıyorum, uzaktan çalışmaya açığım
+- 📍 Eislingen/Fils, Almanya'da yaşıyorum, uzaktan çalışmaya açığım
 
 ## 🇬🇧 About Me
 - 👨‍💻 Full-Stack Developer working with **JavaScript**, **Python**, and **Django**
 - 🛠️ Build web applications end-to-end — frontend to backend
 - 🌱 **Currently actively looking for job opportunities**
-- 🌍 Based in **Geislingen an der Steige**, open to remote opportunities
+- 🌍 Based in **Eislingen/Fils**, open to remote opportunities
 - 🗣️ Languages: Turkish (native), English (B1), German (B2)
 
 ## 🇩🇪 Über mich
 - 👨‍💻 Full-Stack-Entwickler mit Fokus auf **JavaScript**, **Python** und **Django**
 - 🛠️ Entwicklung vollständiger Webanwendungen – Frontend bis Backend
 - 🌱 **Ich bin derzeit aktiv auf der Suche nach beruflichen Möglichkeiten**
-- 🌍 Lebe in **Geislingen an der Steige**, offen für Remote-Projekte
+- 🌍 Lebe in **Eislingen/Fils**, offen für Remote-Projekte
 - 🗣️ Sprachen: Türkisch (Muttersprache), Englisch (B1), Deutsch (B2)
 
 ---
